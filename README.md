@@ -1,7 +1,7 @@
 # Themes
 Black recoloring of themes found in:
 <br> 
-`/usr/share/themes/`
+`/usr/share/themes/` and `/home/$USER/.themes`
 <br>
 ...of various versions  of Manjaro
 ## Matcha-black-sea
@@ -13,3 +13,9 @@ Black recoloring of themes found in:
 * Quick and brutal blackening of Breath-Dark theme found in Manjaro KDE
   <br>
   > Thank you ![Ramon Buldó](https://gitlab.manjaro.org/artwork/themes/breath-gtk/-/tree/master/Breath-Dark)
+  <br>
+# Installation
+  #### Extract themes to
+  `/usr/share/themes/`
+  ###### or 
+  `/home/$USER/.themes`
