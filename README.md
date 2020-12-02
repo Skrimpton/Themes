@@ -21,5 +21,5 @@ Black recoloring of themes found in:
   `/usr/share/themes/`
   ###### or 
   `/home/$USER/.themes`
-  ##### Notes
+  #### Notes
   Tested on Manjaro XFCE 20.0 and Manjaro KDE 20.1
