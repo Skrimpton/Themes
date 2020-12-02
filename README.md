@@ -1,10 +1,10 @@
 # Themes
 Black recoloring of themes found in:
 <br>
-`/usr/share/themes/` 
+`/usr/share/themes` 
 ##### and
 <br> 
-`/home/$USER/.themes/`
+`/home/$USER/.themes`
 <br> 
 ##### of various Manjaro versions
 
