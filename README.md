@@ -1,7 +1,11 @@
 # Themes
 Black recoloring of themes found in:
 <br> 
-`/usr/share/themes/` and `/home/$USER/.themes`
+`/usr/share/themes/` 
+<br>
+and
+<br>
+`/home/$USER/.themes`
 <br>
 ...of various Manjaro versions
 ## Matcha-black-sea
