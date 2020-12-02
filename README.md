@@ -3,7 +3,7 @@ Black recoloring of themes found in:
 <br> 
 `/usr/share/themes/` and `/home/$USER/.themes`
 <br>
-...of various versions  of Manjaro
+...of various Manjaro versions
 ## Matcha-black-sea
 * Quick and brutal blackening of Mathca-dark-sea theme found in Manjaro XFCE
   <br>
