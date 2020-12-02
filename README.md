@@ -15,7 +15,7 @@
   > Thank you ![Ramon Buldó](https://gitlab.manjaro.org/artwork/themes/breath-gtk/-/tree/master/Breath-Dark)
   
 # Installation
-  #### Extract themes to
+  #### Extract themes to:
   `/usr/share/themes/`
   ##### or 
   `/home/$USER/.themes`
