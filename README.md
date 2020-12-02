@@ -5,7 +5,7 @@ Black recoloring of themes found in:
 <br>
 and
 <br>
-`/home/$USER/.themes`
+`/home/$USER/.themes/`
 <br>
 ...of various Manjaro versions
 ## Matcha-black-sea
