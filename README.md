@@ -1,5 +1,5 @@
 # Themes
-Black recoloring of themes found in:
+###### Black recoloring of themes found in:
 * `/usr/share/themes/`
 ###### and 
 * `/home/$USER/.themes/`
