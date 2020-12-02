@@ -1,7 +1,9 @@
 # Themes
 Black recoloring of themes found in:
+<br>
 `/usr/share/themes/` 
 ##### and
+<br> 
 `/home/$USER/.themes/`
 ...of various Manjaro versions
 ## Matcha-black-sea
@@ -19,5 +21,5 @@ Black recoloring of themes found in:
   `/usr/share/themes/`
   ###### or 
   `/home/$USER/.themes`
-  ### Notes
+  ##### Notes
   Tested on Manjaro XFCE 20.0 and Manjaro KDE 20.1
